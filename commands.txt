@@ -1,0 +1,17 @@
+Install Java
+sudo yum install java-17-amazon-corretto -y
+
+Install Tomcat
+wget https://archive.apache.org/dist/tomcat/...
+
+Start Tomcat
+sh startup.sh
+
+Deploy application
+create student folder in webapps
+
+Install nginx
+sudo yum install nginx -y
+
+Configure reverse proxy
+edit nginx.conf
