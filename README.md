@@ -127,19 +127,19 @@ This ensures that **the backend server remains hidden from public access**.
 
 ## EC2 Instances Running
 
-![EC2 Instances](c:\Users\hp\OneDrive\Pictures\ec2-instances.png)
+![EC2 Instances](screenshots/ec2-instances.png)
 
 ---
 
 ## Student Registration Form
 
-![Student Form](c:\Users\hp\OneDrive\Pictures\student-form.png)
+![Student Form](screenshots/student-form.png)
 
 ---
 
 ## Database Records Stored in RDS
 
-![Database](c:\Users\hp\OneDrive\Pictures\rds-table.png)
+![Database](screenshots/rds-table.png)
 
 ---
 
@@ -147,7 +147,7 @@ This ensures that **the backend server remains hidden from public access**.
 
 ## Final Application Output
 
-![Application Output](c:\Users\hp\OneDrive\Pictures\final-output.png)
+![Application Output](screenshots/final-output.png)
 
 ---
 
